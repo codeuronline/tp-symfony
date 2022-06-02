@@ -1,6 +1,0 @@
-index:
-    path: /
-    controller: App\Controller\DefaultController::index
-service:
-    path: / 
-    controller: App\Controller\ServiceController::createAction
